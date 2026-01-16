@@ -128,4 +128,5 @@ while True:
     if home_team in valid_teams and away_team in valid_teams:
         predict_game(home_team, away_team, df, model)
     else:
-        print("❌ Error: Invalid team code. Please check the list above.")
+        print("❌ Error: Invalid
+         team code. Please check the list above.")
